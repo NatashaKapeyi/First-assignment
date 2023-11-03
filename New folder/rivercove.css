@@ -1,0 +1,38 @@
+body{background-color: #FFFFFF;
+      color: #666666;
+      font-family: verdana;}
+
+h1{background-color: #000033;
+    color: #FFFFFF;
+    font-family: Georgia;
+    line-height: 200%;}
+
+
+nav {
+  background-color:  #90C7E3;
+  font-weight: bold;
+}
+
+h2{color: #3399CC;
+   font-family:  Georgia;
+}
+   
+dt {
+color: #000033;}
+
+footer { font-size:70em;
+         font-style: italics;
+         text-align: center;
+}
+
+body {
+  margin-right: auto;
+  margin-left:  auto;
+  max-width: 960px;
+  padding-right: 10px;
+  padding-left:  10px;
+}
+
+
+ 
+
